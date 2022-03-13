@@ -11,3 +11,6 @@ SE4402
 Projek kita : Kitchen Supply Management System
 
 Sebuah inventory management system untuk mencatat komponen dan bahan pembuatan makanan dalam pengoperasian rumah makan dan restauran sejenisnya
+
+
+Link dokumentasi : https://docs.google.com/document/d/1sLxOncPEzWV8xZdEHNPTl1EDJMBZ5pDz6C2VEreKp9w/edit?usp=sharing
