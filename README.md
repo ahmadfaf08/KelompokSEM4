@@ -7,3 +7,6 @@ SE4402
 4. Glen Rio Aristo - 1302200052
 5. Muhammad Rizky Fajri - 1302204043
 6. Nastma Dzia Ulhaque - 1302200037
+
+Projek kita : Kitchen Supply Management System
+Sebuah inventory management system untuk mencatat komponen dan bahan pembuatan makanan dalam pengoperasian rumah makan dan restauran sejenisnya
