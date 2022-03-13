@@ -9,4 +9,5 @@ SE4402
 6. Nastma Dzia Ulhaque - 1302200037
 
 Projek kita : Kitchen Supply Management System
+
 Sebuah inventory management system untuk mencatat komponen dan bahan pembuatan makanan dalam pengoperasian rumah makan dan restauran sejenisnya
