@@ -1,0 +1,46 @@
+{
+  "members" : [
+    {
+       "firstName": "Gleb",
+       "lastName": "Rio",
+       "gender": "male",
+       "age": 21,
+       "nim": "1302200052"
+    },
+    {
+      "firstName": "Agista",
+      "lastName": "Hidayatillah",
+      "gender": "female",
+      "age": 20,
+      "nim": "1302201140"
+    },
+    {
+      "firstName": "Ahmad",
+      "lastName": "Fadhil",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302200084"
+    },
+    {
+      "firstName": "Desak",
+      "lastName": "Resty",
+      "gender": "female",
+      "age": 19,
+      "nim": "1302200012"
+    },
+    {
+      "firstName": "Muhammad",
+      "lastName": "Rizky",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302204043"
+    },
+    {
+      "firstName": "Nastma",
+      "lastName": "Dzia",
+      "gender": "female",
+      "age": 20,
+      "nim": "1302200037"
+    }
+  ]
+}
