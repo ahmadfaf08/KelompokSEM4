@@ -13,3 +13,5 @@ D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok 
 D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\obj\Debug\net6.0\mod6_tugas_kelompok_sem4.pdb
 D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\obj\Debug\net6.0\mod6_tugas_kelompok_sem4.genruntimeconfig.cache
 D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\obj\Debug\net6.0\ref\mod6_tugas_kelompok_sem4.dll
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\obj\Debug\net6.0\mod6_tugas_kelompok_sem4.csproj.CopyComplete

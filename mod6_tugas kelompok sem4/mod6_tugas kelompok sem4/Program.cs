@@ -4,6 +4,7 @@
     {
         static void Main()
         {
+            DataMahasiswa_1302204043.ReadJson();
         }
     }
 }
