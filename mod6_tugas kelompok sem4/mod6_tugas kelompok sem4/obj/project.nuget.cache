@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TXiAFHG7bCgvO1H/pTELv5E3NGxL7PqjjhqhFa0zQ/2kZmjkKfJsLkPbJzAp5iKnIn23eb3Tc/YJNqzdJ8y9Xg==",
+  "dgSpecHash": "It2xF4f7Q2uxKPA2rDA6vua3lugpzyVoV/sYFJt5F1hxfGV9bGz0ai3c9glA9PnOJ4kyN3b1mba3f7d7THtG7w==",
   "success": true,
-  "projectFilePath": "D:\\Programs\\Universitas\\semester 4\\Proting\\git\\KelompokSEM4\\mod6_tugas kelompok sem4\\mod6_tugas kelompok sem4\\mod6_tugas_kelompok_sem4.csproj",
+  "projectFilePath": "C:\\Users\\desak\\Documents\\New folder\\KelompokSEM4\\mod6_tugas kelompok sem4\\mod6_tugas kelompok sem4\\mod6_tugas_kelompok_sem4.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Fajri\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\desak\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
