@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programs\\Universitas\\semester 4\\Proting\\git\\KelompokSEM4\\mod6_tugas kelompok sem4\\mod6_tugas kelompok sem4\\mod6_tugas kelompok sem4.csproj",
-      "projectName": "mod6_tugas kelompok sem4",
-      "projectPath": "D:\\Programs\\Universitas\\semester 4\\Proting\\git\\KelompokSEM4\\mod6_tugas kelompok sem4\\mod6_tugas kelompok sem4\\mod6_tugas kelompok sem4.csproj",
+      "projectUniqueName": "D:\\Programs\\Universitas\\semester 4\\Proting\\git\\KelompokSEM4\\mod6_tugas kelompok sem4\\mod6_tugas kelompok sem4\\mod6_tugas_kelompok_sem4.csproj",
+      "projectName": "mod6_tugas_kelompok_sem4",
+      "projectPath": "D:\\Programs\\Universitas\\semester 4\\Proting\\git\\KelompokSEM4\\mod6_tugas kelompok sem4\\mod6_tugas kelompok sem4\\mod6_tugas_kelompok_sem4.csproj",
       "packagesPath": "C:\\Users\\Fajri\\.nuget\\packages\\",
       "outputPath": "D:\\Programs\\Universitas\\semester 4\\Proting\\git\\KelompokSEM4\\mod6_tugas kelompok sem4\\mod6_tugas kelompok sem4\\obj\\",
       "projectStyle": "PackageReference",

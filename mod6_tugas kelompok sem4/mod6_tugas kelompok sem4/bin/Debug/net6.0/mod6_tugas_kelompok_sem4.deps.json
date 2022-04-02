@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "mod6_tugas_kelompok_sem4/1.0.0": {
+        "runtime": {
+          "mod6_tugas_kelompok_sem4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mod6_tugas_kelompok_sem4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

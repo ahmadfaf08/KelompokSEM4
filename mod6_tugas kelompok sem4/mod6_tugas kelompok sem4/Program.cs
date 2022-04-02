@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
+﻿namespace mod6_tugas_kelompok_sem4
+{
+    public class Program
+    {
+        static void Main()
+        {
+        }
+    }
+}

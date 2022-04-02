@@ -1,0 +1,15 @@
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\bin\Debug\net6.0\mod6_tugas_kelompok_sem4.exe
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\bin\Debug\net6.0\mod6_tugas_kelompok_sem4.deps.json
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\bin\Debug\net6.0\mod6_tugas_kelompok_sem4.runtimeconfig.json
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\bin\Debug\net6.0\mod6_tugas_kelompok_sem4.dll
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\bin\Debug\net6.0\mod6_tugas_kelompok_sem4.pdb
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\obj\Debug\net6.0\mod6_tugas_kelompok_sem4.csproj.AssemblyReference.cache
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\obj\Debug\net6.0\mod6_tugas_kelompok_sem4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\obj\Debug\net6.0\mod6_tugas_kelompok_sem4.AssemblyInfoInputs.cache
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\obj\Debug\net6.0\mod6_tugas_kelompok_sem4.AssemblyInfo.cs
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\obj\Debug\net6.0\mod6_tugas_kelompok_sem4.csproj.CoreCompileInputs.cache
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\obj\Debug\net6.0\mod6_tugas_kelompok_sem4.dll
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\obj\Debug\net6.0\refint\mod6_tugas_kelompok_sem4.dll
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\obj\Debug\net6.0\mod6_tugas_kelompok_sem4.pdb
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\obj\Debug\net6.0\mod6_tugas_kelompok_sem4.genruntimeconfig.cache
+D:\Programs\Universitas\semester 4\Proting\git\KelompokSEM4\mod6_tugas kelompok sem4\mod6_tugas kelompok sem4\obj\Debug\net6.0\ref\mod6_tugas_kelompok_sem4.dll
