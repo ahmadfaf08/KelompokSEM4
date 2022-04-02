@@ -22,7 +22,7 @@ namespace mod6_tugas_kelompok_sem4
             Console.WriteLine("Alamat: \t" + mhs.address.streetAddress);
             Console.WriteLine("City: \t\t" + mhs.address.city);
             Console.WriteLine("State: \t\t" + mhs.address.state);
-            Console.WriteLine("Courses: ");
+            //Console.WriteLine("Courses:\t\t" + mhs.courses.code);
 
             foreach (var item in mhs.courses)
             {
