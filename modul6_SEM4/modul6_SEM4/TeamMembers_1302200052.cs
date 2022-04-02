@@ -5,9 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Text.Json;
 
+
 namespace modul6_SEM4
 {
-    internal class TeamMembers_1302200052
+    class TeamMembers_1302200052
     {
         public TeamMember[] members { get; set; }
 
